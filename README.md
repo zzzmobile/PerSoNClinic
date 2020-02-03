@@ -1,10 +1,8 @@
 # PerSoNClinic
 http://person.clinic
 
-Login Screen  
-![PerSoNClinic](https://github.com/zzzmobile/PerSoNClinic/blob/master/Screenshots/login.png)
+## Login Screen  
+<image src="./Screenshots/personclinic-new-user.png" width="300px"/>
 
-
-Register  
-![PerSoNClinic](https://github.com/zzzmobile/PerSoNClinic/blob/master/Screenshots/personclinic-new-user.png)
-![PerSoNClinic](https://github.com/zzzmobile/PerSoNClinic/blob/master/Screenshots/personclinic-new-user-2.png)
+## Register  
+<image src="./Screenshots/personclinic-new-user.png" width="300px"/> <image src="./Screenshots/personclinic-new-user-2.png" width="300px"/> 
