@@ -1,6 +1,5 @@
 # PerSoNClinic
 http://person.clinic
-<image src="./Screenshots/splash.png" width="300px"/>
 ### SOLUTIONS
 1. Health care
 2. Insurance
@@ -8,6 +7,12 @@ http://person.clinic
 4. Employer
 5. Charities
 6. Goverment
+
+### Programming Language
+Objective-C
+
+## Splash
+<image src="./Screenshots/splash.png" width="300px"/>
 
 
 ## Login Screen  
