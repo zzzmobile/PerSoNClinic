@@ -8,4 +8,4 @@ Register
 
 https://raw.githubusercontent.com/zzzmobile/PerSoNClinic/master/Screenshots/personclinic-new-user.png
 
-https://github.com/zzzmobile/PerSoNClinic/blob/master/Screenshots/personclinic-new-user-2.png?raw=true
+https://github.com/zzzmobile/PerSoNClinic/blob/master/Screenshots/personclinic-new-user-2.png
